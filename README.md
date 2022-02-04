@@ -1,3 +1,12 @@
+![backG](https://user-images.githubusercontent.com/98689144/152476506-8e89e11b-5759-4756-a35e-33354d744790.png)
+![WALKING CHICK](https://user-images.githubusercontent.com/98689144/152476517-7911d494-e4ab-4c68-989a-34ea5a849b3f.gif)
+![MATH](https://user-images.githubusercontent.com/98689144/152476523-ccf2f88d-0541-463d-843e-cec48284b879.jpg)
+![CAE](https://user-images.githubusercontent.com/98689144/152476527-9c2ba6e7-ebf6-479a-aa79-e9349c26fc83.jpg)
+![CLE](https://user-images.githubusercontent.com/98689144/152476558-e0ff7120-d50a-403d-9059-ad5fc87986e4.jpg)
+![CLICK](https://user-images.githubusercontent.com/98689144/152476567-3ae54adb-5c63-418d-8395-b36f1c493660.gif)
+![Note](https://user-images.githubusercontent.com/98689144/152476575-837b8963-81f2-4718-a9a7-8bd378c374f2.jpg)
+[ALMOND.zip](https://github.com/Karhylleee/Homepage/files/8000305/ALMOND.zip)
+[autumn_in_november.zip](https://github.com/Karhylleee/Homepage/files/8000308/autumn_in_november.zip)
 # Homepage
 <html>
 <head> <title> GROUP 22 </title></head>
